@@ -79,7 +79,7 @@ First, let's register the custom curation:
 1. In the Google Cloud Console, navigate to the [Apigee API hub page](https://console.cloud.google.com/apigee/api-hub/get-started)
 2. In the left navigation menu, under `API hub`, click `Settings`
 3. Select the `Curations` tab, and then click `Create Curation`, and then `Start`
-4. Enter a `Display name` and `Description`, and then from the dropdown list, select the integration you created previously (`apihub-oas-version-curation`) and the trigger (`api_trigger/apihub-oas-version-curation_API_1`)
+4. Enter a `Display name` and `Description`, and then from the dropdown list, select the integration you created previously (`apihub-oas-version-curation`) and the trigger (`api_trigger/oas-version-curation_API_1`)
 5. Click `Create curation`
 
 Next, you need to associate this new curation with the ingestion plugin for your Apigee Org. To associate your new curation:
