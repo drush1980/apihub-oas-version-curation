@@ -65,7 +65,7 @@ To create the curation flow, perform the following steps:
     - Select a region for the integration from the list of supported regions
     - Click `Create`
     
-    This opens the integration in the integration designer
+    This opens the integration in the integration designer.
 4. In the integration designer, click the three dots in the upper right corner and then select `Upload Integration`
 5. In the file browser dialog, select the `apihub-oas-version-curation.json` file from this repo, and then click Open. A new version of the integration is created using the uploaded file
 6. In the integration designer, click the `Publish` button to deploy the integration
