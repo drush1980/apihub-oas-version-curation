@@ -61,14 +61,14 @@ To create the curation flow, perform the following steps:
 1. Clone this repo 
 2. In the Google Cloud Console, go to the [Application Integration](https://console.cloud.google.com/integrations) page
 3. Create a new integration by clicking the `Create Integration` button
-    - Enter the name `apihub-oas-version-curation` on the `Create Integration` screen.
-    - Select a region for the integration from the list of supported regions.
-    - Click `Create`.
+    - Enter the name `apihub-oas-version-curation` on the `Create Integration` screen
+    - Select a region for the integration from the list of supported regions
+    - Click `Create`
     
-    This opens the integration in the integration designer.
-4. In the integration designer, click the three dots in the upper right corner and then select `Upload Integration`.
-5. In the file browser dialog, select the `apihub-oas-version-curation.json` file from this repo, and then click Open. A new version of the integration is created using the uploaded file.
-6. In the integration designer, click the `Publish` button to deploy the integration.
+    This opens the integration in the integration designer
+4. In the integration designer, click the three dots in the upper right corner and then select `Upload Integration`
+5. In the file browser dialog, select the `apihub-oas-version-curation.json` file from this repo, and then click Open. A new version of the integration is created using the uploaded file
+6. In the integration designer, click the `Publish` button to deploy the integration
 
 ## Apigee API hub Setup
 
