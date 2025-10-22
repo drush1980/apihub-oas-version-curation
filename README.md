@@ -61,9 +61,9 @@ To create the curation flow, perform the following steps:
 1. Clone this repo 
 2. In the Google Cloud Console, go to the [Application Integration](https://console.cloud.google.com/integrations) page
 3. Create a new integration by clicking the `Create Integration` button
-    - Enter the name `apihub-oas-version-curation` on the Create Integration screen.
-    - Select a Region for the integration from the list of supported regions.
-    - Click Create.
+    - Enter the name `apihub-oas-version-curation` on the `Create Integration` screen.
+    - Select a region for the integration from the list of supported regions.
+    - Click `Create`.
     
     This opens the integration in the integration designer.
 4. In the integration designer, click the three dots in the upper right corner and then select `Upload Integration`.
